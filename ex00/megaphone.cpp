@@ -23,7 +23,7 @@ int main(int ac, char **av)
 			std::cout << (char)toupper(av[i][j]);
 		}
 		std::cout << std::endl;
-
+	}
 	else
 		std::cout << "* LOUD AND UNBEARABLE FEEDBACK NOISE *" << std::endl;
 }
